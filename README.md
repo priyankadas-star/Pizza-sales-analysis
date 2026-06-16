@@ -35,9 +35,8 @@ Pizza-Sales-Analysis
 │   ├── dashboard.png
 │   ├── revenue_by_category.png
 │   ├── revenue_by_size.png
-│   ├── monthly_sales_trend.png
-│   ├── top_5_pizzas.png
-│   └── peak_sales_hours.png
+    ├── top_5_pizzas.png
+  
 ```
 ## Technologies Used
 
