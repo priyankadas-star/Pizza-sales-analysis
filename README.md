@@ -19,3 +19,19 @@ Analyzed pizza sales data using Excel, Python, and Power BI to identify revenue 
 - Python Analysis
 - Power BI Dashboard
 - Visualizations
+
+##Pizza-Sales-Analysis
+│
+├── README.md
+├── pizza_sales.csv
+├── Pizza_Sales_Analysis.ipynb
+├── PowerBI_Dashboard.pbix
+│
+└── Images
+
+## Future Improvements
+
+- Build sales forecasting models
+- Perform customer segmentation
+- Create advanced Power BI dashboards
+- Automate reporting using Python
