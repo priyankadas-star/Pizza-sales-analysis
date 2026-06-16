@@ -69,7 +69,7 @@ Pizza-Sales-Analysis
 
 ## Dashboard Preview
 
-![Dashboard]("C:\Users\priyanka das\OneDrive\Desktop\Dashboard 1.png")
+
 
 ## Author
 
