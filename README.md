@@ -20,7 +20,7 @@ Analyzed pizza sales data using Excel, Python, and Power BI to identify revenue 
 - Power BI Dashboard
 - Visualizations
 
-##Pizza-Sales-Analysis
+## Pizza-Sales-Analysis
 │
 ├── README.md
 ├── pizza_sales.csv
