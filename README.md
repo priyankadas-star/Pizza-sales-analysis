@@ -67,12 +67,6 @@ Pizza-Sales-Analysis
 * Revenue by Category
 * Revenue by Size
 
-## Dashboard Preview
-
-![Dashboard] (Images/Dashboard 1.png)
-![Dashboard] (Images/Dashboard 2.png)
-![Dashboard] (Images/Dashboard 3.png)
-
 ## Author
 
 **Priyanka Ranjit Das**
