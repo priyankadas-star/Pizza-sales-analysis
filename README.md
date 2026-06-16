@@ -21,13 +21,7 @@ Analyzed pizza sales data using Excel, Python, and Power BI to identify revenue 
 - Visualizations
 
 ## Pizza-Sales-Analysis
-│
-├── README.md
-├── pizza_sales.csv
-├── Pizza_Sales_Analysis.ipynb
-├── PowerBI_Dashboard.pbix
-│
-└── Images
+Pizza-Sales-Analysis │ ├── README.md ├── pizza_sales.csv ├── Pizza_Sales_Analysis.ipynb ├── Pizza_Sales_Analysis.py ├── PowerBI_Dashboard.pbix │ ├── Images │ ├── dashboard.png │ ├── revenue_by_category.png │ ├── revenue_by_size.png │ ├── monthly_sales_trend.png │ ├── top_5_pizzas.png │ └── peak_sales_hours.png
 
 ## Future Improvements
 
